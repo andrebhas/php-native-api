@@ -13,7 +13,7 @@ class Log
     {
         $this->logger = new Logger($channel);
 
-        $handler = new RotatingFileHandler(__DIR__ . "/../logs/" . $channel . ".log", 90, Logger::DEBUG);
+        $handler = new RotatingFileHandler(__DIR__ . "/../../logs/" . $channel . ".log", 90, Logger::DEBUG);
         $output = "[%datetime%] %channel%.%level_name%: %message% %context% %extra%\n";
         $formatter = new LineFormatter($output, "Y-m-d H:i:s", true, true);
         $handler->setFormatter($formatter);
