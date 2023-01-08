@@ -1,2 +1,10 @@
-# php-native-api
-Simple Payment API with Native PHP
+# Simple Payment API 
+
+Simple payment API with PHP Native.
+
+
+# Requirements
+
+- PHP 8.2
+- MySql
+- Composer
