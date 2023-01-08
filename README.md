@@ -35,7 +35,7 @@ Simple payment API with PHP Native.
 > reference_id = payment reference id 
 > status = pending, paid, failed
 
-    php payment-status-update.php reference_id status
+    php src/run/payment-status-update.php reference_id status
 
 ## Running API
 > You can use any port other than 8000 
