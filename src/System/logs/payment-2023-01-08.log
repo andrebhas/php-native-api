@@ -1,2 +1,0 @@
-[2023-01-08 00:38:04] payment.INFO: Update Payment Success {"payment_id":"25","transaction_status":2,"status_name":"Failed"} 
-[2023-01-08 00:38:18] payment.INFO: Update Payment Success {"payment_id":"25","transaction_status":2,"status_name":"Failed"} 

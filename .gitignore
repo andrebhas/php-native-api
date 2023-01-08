@@ -5,4 +5,4 @@ yarn-error.log
 .env
 .phpunit.result.cache
 composer.lock
-/src/logs/*
+*.log

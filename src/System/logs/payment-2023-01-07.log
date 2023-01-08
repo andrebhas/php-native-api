@@ -1,3 +1,0 @@
-[2023-01-07 23:15:28] payment.INFO: Create Payment Success {"invoice_id":"2101132311","item_name":"tiekt b","amount":110000,"payment_type":1,"customer_name":"Andrebhas","merchant_id":"dtkom","payment_id":"24","payment_status_id":"24"} 
-[2023-01-07 23:45:10] payment.INFO: Create Payment Success {"invoice_id":"2101100311","item_name":"tiekt b","amount":110000,"payment_type":1,"customer_name":"Andrebhas","merchant_id":"dtkom","payment_id":"25","payment_status_id":"25"} 
-[2023-01-07 23:50:49] payment.INFO: Create Payment Success {"invoice_id":"20230107914","item_name":"tiket b","amount":294865,"payment_type":1,"customer_name":"customer b","merchant_id":"merchant a","payment_id":"26","payment_status_id":"26"} 
